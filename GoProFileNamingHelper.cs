@@ -89,7 +89,7 @@ namespace GoProFileNaming
             {
                 SuggestedFileNameChange sfnc = new SuggestedFileNameChange();
                 sfnc.OldName = Filter2[t].ToString();
-                sfnc.NewName = (t+1).ToString() + Filter2[t].Extension;
+                sfnc.NewName = (t+1).ToString() + "." + Filter2[t].Extension;
                 name_changes.Add(sfnc);
             }
             return name_changes.ToArray();
