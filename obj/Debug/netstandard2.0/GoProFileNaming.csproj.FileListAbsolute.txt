@@ -1,9 +1,9 @@
 C:\Users\TaHan\Downloads\GoProFileNaming\bin\Debug\netstandard2.0\GoProFileNaming.deps.json
 C:\Users\TaHan\Downloads\GoProFileNaming\bin\Debug\netstandard2.0\GoProFileNaming.dll
 C:\Users\TaHan\Downloads\GoProFileNaming\bin\Debug\netstandard2.0\GoProFileNaming.pdb
-C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.csprojAssemblyReference.cache
 C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.csproj.CoreCompileInputs.cache
 C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.AssemblyInfoInputs.cache
 C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.AssemblyInfo.cs
 C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.dll
 C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.pdb
+C:\Users\TaHan\Downloads\GoProFileNaming\obj\Debug\netstandard2.0\GoProFileNaming.csprojAssemblyReference.cache

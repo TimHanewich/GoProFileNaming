@@ -2,6 +2,22 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Tim Hanewich</Authors>
+    <Company>Tim Hanewich</Company>
+    <Description>Suggests file renames for GoPro video files, in order from first video to last video filmed.</Description>
+    <RepositoryUrl>https://github.com/TimHanewich/GoProFileNaming</RepositoryUrl>
+    <PackageTags>gopro,naming convention,file name</PackageTags>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>GoProLogo.png</PackageIcon>
+    <FileVersion>0.0.0.0</FileVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="GoProLogo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

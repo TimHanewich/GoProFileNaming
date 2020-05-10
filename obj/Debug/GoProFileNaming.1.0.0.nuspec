@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GoProFileNaming</id>
+    <version>1.0.0</version>
+    <authors>Tim Hanewich</authors>
+    <owners>Tim Hanewich</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>GoProLogo.png</icon>
+    <description>Suggests file renames for GoPro video files, in order from first video to last video filmed.</description>
+    <tags>gopro,naming convention,file name</tags>
+    <repository url="https://github.com/TimHanewich/GoProFileNaming" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Downloads\GoProFileNaming\bin\Debug\netstandard2.0\GoProFileNaming.dll" target="lib\netstandard2.0\GoProFileNaming.dll" />
+    <file src="C:\Users\TaHan\Downloads\GoProFileNaming\GoProLogo.png" target="GoProLogo.png" />
+  </files>
+</package>
